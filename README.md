@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Infas7/Infas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohamed Infas, Computer Engineering undergraduate (3rd year) at University of Sri Jayewardenepura. I'm interested in web development and currently learning ML.
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an AI project
+- 🌱 I’m currently learning everything😂
+- 👯 I’m looking to collaborate on React/Next/PHP/MERN based projects
+- 📫 How to reach me: 
+     -  Email: infasim1997@gmail.com
+     -  LinkedIn: https://www.linkedin.com/in/infas7/
+- ⚡ Fun fact: solely depended on Stackoverflow.com
+
