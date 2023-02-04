@@ -4,7 +4,7 @@ I'm Mohamed Infas, Computer Engineering undergraduate (3rd year) at University o
 
 About Me:
 
-- 🔭 I’m currently working on an AI project
+- 🔭 I’m currently working on an ML project
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking to collaborate on React/Next/PHP/MERN based projects
 - 📫 How to reach me: 
