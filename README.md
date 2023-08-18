@@ -8,5 +8,4 @@ About Me:
 - 👯 I’m looking to collaborate on React/Next/PHP/MERN based projects
 - 📫 How to reach me: 
      -  Email: infasim1997@gmail.com
-     -  LinkedIn: https://www.linkedin.com/in/infas7/
 
